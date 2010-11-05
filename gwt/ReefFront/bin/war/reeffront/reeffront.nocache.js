@@ -1,13 +1,5 @@
 function reeffront(){
-<<<<<<< HEAD
-<<<<<<< HEAD
-  var $intern_0 = '', $intern_34 = '" for "gwt:onLoadErrorFn"', $intern_32 = '" for "gwt:onPropertyErrorFn"', $intern_15 = '"><\/script>', $intern_17 = '#', $intern_59 = '.cache.html', $intern_19 = '/', $intern_52 = '0E5BA1700F50CF2AA0B66EA6AA53E9A9', $intern_53 = '1FA6EEEB673DD7900E7BB3DEB696E835', $intern_54 = '90B3D880BB0B3B8BE36BA05EB636408B', $intern_58 = ':', $intern_26 = '::', $intern_67 = '<script defer="defer">reeffront.onInjectionDone(\'reeffront\')<\/script>', $intern_14 = '<script id="', $intern_29 = '=', $intern_18 = '?', $intern_31 = 'Bad handler "', $intern_66 = 'DOMContentLoaded', $intern_55 = 'F2AA997BA4CB1F9AAE395E6500A97737', $intern_56 = 'FB2F3C1C5EE4A32F5C79A3DEFD663E9D', $intern_57 = 'FBA3A6A7FAB2689FECFCB00ED2ED8402', $intern_16 = 'SCRIPT', $intern_13 = '__gwt_marker_reeffront', $intern_20 = 'base', $intern_10 = 'baseUrl', $intern_4 = 'begin', $intern_3 = 'bootstrap', $intern_22 = 'clear.cache.gif', $intern_28 = 'content', $intern_9 = 'end', $intern_46 = 'gecko', $intern_47 = 'gecko1_8', $intern_5 = 'gwt.codesvr=', $intern_6 = 'gwt.hosted=', $intern_7 = 'gwt.hybrid', $intern_60 = 'gwt/standard/standard.css', $intern_33 = 'gwt:onLoadErrorFn', $intern_30 = 'gwt:onPropertyErrorFn', $intern_27 = 'gwt:property', $intern_65 = 'head', $intern_50 = 'hosted.html?reeffront', $intern_64 = 'href', $intern_45 = 'ie6', $intern_44 = 'ie8', $intern_35 = 'iframe', $intern_21 = 'img', $intern_36 = "javascript:''", $intern_61 = 'link', $intern_49 = 'loadExternalRefs', $intern_23 = 'meta', $intern_38 = 'moduleRequested', $intern_8 = 'moduleStartup', $intern_43 = 'msie', $intern_24 = 'name', $intern_40 = 'opera', $intern_37 = 'position:absolute;width:0;height:0;border:none', $intern_1 = 'reeffront', $intern_12 = 'reeffront.nocache.js', $intern_25 = 'reeffront::', $intern_62 = 'rel', $intern_42 = 'safari', $intern_11 = 'script', $intern_51 = 'selectingPermutation', $intern_2 = 'startup', $intern_63 = 'stylesheet', $intern_48 = 'unknown', $intern_39 = 'user.agent', $intern_41 = 'webkit';
-=======
   var $intern_0 = '', $intern_34 = '" for "gwt:onLoadErrorFn"', $intern_32 = '" for "gwt:onPropertyErrorFn"', $intern_15 = '"><\/script>', $intern_17 = '#', $intern_58 = '.cache.html', $intern_19 = '/', $intern_52 = '794238AE004F6DFC8CE24C286339CF83', $intern_53 = '943C9C20BCC506D00AD808411489C315', $intern_57 = ':', $intern_26 = '::', $intern_66 = '<script defer="defer">reeffront.onInjectionDone(\'reeffront\')<\/script>', $intern_14 = '<script id="', $intern_29 = '=', $intern_18 = '?', $intern_54 = 'A7961AA3AF884A856321ED1F4BEFA0EE', $intern_31 = 'Bad handler "', $intern_55 = 'D50B4749D6F01AC358CAF9C6319F320E', $intern_65 = 'DOMContentLoaded', $intern_56 = 'E2A278164D624BF998E8AE3257FE6C9C', $intern_16 = 'SCRIPT', $intern_13 = '__gwt_marker_reeffront', $intern_20 = 'base', $intern_10 = 'baseUrl', $intern_4 = 'begin', $intern_3 = 'bootstrap', $intern_22 = 'clear.cache.gif', $intern_28 = 'content', $intern_9 = 'end', $intern_46 = 'gecko', $intern_47 = 'gecko1_8', $intern_5 = 'gwt.codesvr=', $intern_6 = 'gwt.hosted=', $intern_7 = 'gwt.hybrid', $intern_59 = 'gwt/standard/standard.css', $intern_33 = 'gwt:onLoadErrorFn', $intern_30 = 'gwt:onPropertyErrorFn', $intern_27 = 'gwt:property', $intern_64 = 'head', $intern_50 = 'hosted.html?reeffront', $intern_63 = 'href', $intern_45 = 'ie6', $intern_44 = 'ie8', $intern_35 = 'iframe', $intern_21 = 'img', $intern_36 = "javascript:''", $intern_60 = 'link', $intern_49 = 'loadExternalRefs', $intern_23 = 'meta', $intern_38 = 'moduleRequested', $intern_8 = 'moduleStartup', $intern_43 = 'msie', $intern_24 = 'name', $intern_40 = 'opera', $intern_37 = 'position:absolute;width:0;height:0;border:none', $intern_1 = 'reeffront', $intern_12 = 'reeffront.nocache.js', $intern_25 = 'reeffront::', $intern_61 = 'rel', $intern_42 = 'safari', $intern_11 = 'script', $intern_51 = 'selectingPermutation', $intern_2 = 'startup', $intern_62 = 'stylesheet', $intern_48 = 'unknown', $intern_39 = 'user.agent', $intern_41 = 'webkit';
->>>>>>> Resolved merge, added frontend functionality to display (simple) data on the page
-=======
-  var $intern_0 = '', $intern_34 = '" for "gwt:onLoadErrorFn"', $intern_32 = '" for "gwt:onPropertyErrorFn"', $intern_15 = '"><\/script>', $intern_17 = '#', $intern_58 = '.cache.html', $intern_19 = '/', $intern_52 = '794238AE004F6DFC8CE24C286339CF83', $intern_53 = '943C9C20BCC506D00AD808411489C315', $intern_57 = ':', $intern_26 = '::', $intern_66 = '<script defer="defer">reeffront.onInjectionDone(\'reeffront\')<\/script>', $intern_14 = '<script id="', $intern_29 = '=', $intern_18 = '?', $intern_54 = 'A7961AA3AF884A856321ED1F4BEFA0EE', $intern_31 = 'Bad handler "', $intern_55 = 'D50B4749D6F01AC358CAF9C6319F320E', $intern_65 = 'DOMContentLoaded', $intern_56 = 'E2A278164D624BF998E8AE3257FE6C9C', $intern_16 = 'SCRIPT', $intern_13 = '__gwt_marker_reeffront', $intern_20 = 'base', $intern_10 = 'baseUrl', $intern_4 = 'begin', $intern_3 = 'bootstrap', $intern_22 = 'clear.cache.gif', $intern_28 = 'content', $intern_9 = 'end', $intern_46 = 'gecko', $intern_47 = 'gecko1_8', $intern_5 = 'gwt.codesvr=', $intern_6 = 'gwt.hosted=', $intern_7 = 'gwt.hybrid', $intern_59 = 'gwt/standard/standard.css', $intern_33 = 'gwt:onLoadErrorFn', $intern_30 = 'gwt:onPropertyErrorFn', $intern_27 = 'gwt:property', $intern_64 = 'head', $intern_50 = 'hosted.html?reeffront', $intern_63 = 'href', $intern_45 = 'ie6', $intern_44 = 'ie8', $intern_35 = 'iframe', $intern_21 = 'img', $intern_36 = "javascript:''", $intern_60 = 'link', $intern_49 = 'loadExternalRefs', $intern_23 = 'meta', $intern_38 = 'moduleRequested', $intern_8 = 'moduleStartup', $intern_43 = 'msie', $intern_24 = 'name', $intern_40 = 'opera', $intern_37 = 'position:absolute;width:0;height:0;border:none', $intern_1 = 'reeffront', $intern_12 = 'reeffront.nocache.js', $intern_25 = 'reeffront::', $intern_61 = 'rel', $intern_42 = 'safari', $intern_11 = 'script', $intern_51 = 'selectingPermutation', $intern_2 = 'startup', $intern_62 = 'stylesheet', $intern_48 = 'unknown', $intern_39 = 'user.agent', $intern_41 = 'webkit';
->>>>>>> Re-imported all the files we managed to rid ourselves of on gwt
   var $wnd = window, $doc = document, $stats = $wnd.__gwtStatsEvent?function(a){
     return $wnd.__gwtStatsEvent(a);
   }
@@ -265,17 +257,6 @@ function reeffront(){
   $stats && $stats({moduleName:$intern_1, sessionId:$sessionId, subSystem:$intern_2, evtGroup:$intern_3, millis:(new Date).getTime(), type:$intern_51});
   if (!isHostedMode()) {
     try {
-<<<<<<< HEAD
-<<<<<<< HEAD
-      unflattenKeylistIntoAnswers([$intern_44], $intern_52);
-      unflattenKeylistIntoAnswers([$intern_47], $intern_53);
-      unflattenKeylistIntoAnswers([$intern_46], $intern_54);
-      unflattenKeylistIntoAnswers([$intern_45], $intern_55);
-      unflattenKeylistIntoAnswers([$intern_40], $intern_56);
-      unflattenKeylistIntoAnswers([$intern_42], $intern_57);
-      strongName = answers[computePropValue($intern_39)];
-      var idx = strongName.indexOf($intern_58);
-=======
       unflattenKeylistIntoAnswers([$intern_46], $intern_52);
       unflattenKeylistIntoAnswers([$intern_45], $intern_53);
       unflattenKeylistIntoAnswers([$intern_44], $intern_53);
@@ -284,30 +265,11 @@ function reeffront(){
       unflattenKeylistIntoAnswers([$intern_47], $intern_56);
       strongName = answers[computePropValue($intern_39)];
       var idx = strongName.indexOf($intern_57);
->>>>>>> Resolved merge, added frontend functionality to display (simple) data on the page
-=======
-      unflattenKeylistIntoAnswers([$intern_46], $intern_52);
-      unflattenKeylistIntoAnswers([$intern_45], $intern_53);
-      unflattenKeylistIntoAnswers([$intern_44], $intern_53);
-      unflattenKeylistIntoAnswers([$intern_40], $intern_54);
-      unflattenKeylistIntoAnswers([$intern_42], $intern_55);
-      unflattenKeylistIntoAnswers([$intern_47], $intern_56);
-      strongName = answers[computePropValue($intern_39)];
-      var idx = strongName.indexOf($intern_57);
->>>>>>> Re-imported all the files we managed to rid ourselves of on gwt
       if (idx != -1) {
         softPermutationId = Number(strongName.substring(idx + 1));
         strongName = strongName.substring(0, idx);
       }
-<<<<<<< HEAD
-<<<<<<< HEAD
-      initialHtml = strongName + $intern_59;
-=======
       initialHtml = strongName + $intern_58;
->>>>>>> Resolved merge, added frontend functionality to display (simple) data on the page
-=======
-      initialHtml = strongName + $intern_58;
->>>>>>> Re-imported all the files we managed to rid ourselves of on gwt
     }
      catch (e) {
       return;
@@ -317,19 +279,6 @@ function reeffront(){
   function onBodyDone(){
     if (!bodyDone) {
       bodyDone = true;
-<<<<<<< HEAD
-<<<<<<< HEAD
-      if (!__gwt_stylesLoaded[$intern_60]) {
-        var l = $doc.createElement($intern_61);
-        __gwt_stylesLoaded[$intern_60] = l;
-        l.setAttribute($intern_62, $intern_63);
-        l.setAttribute($intern_64, base + $intern_60);
-        $doc.getElementsByTagName($intern_65)[0].appendChild(l);
-      }
-      maybeStartModule();
-      if ($doc.removeEventListener) {
-        $doc.removeEventListener($intern_66, onBodyDone, false);
-=======
       if (!__gwt_stylesLoaded[$intern_59]) {
         var l = $doc.createElement($intern_60);
         __gwt_stylesLoaded[$intern_59] = l;
@@ -340,19 +289,6 @@ function reeffront(){
       maybeStartModule();
       if ($doc.removeEventListener) {
         $doc.removeEventListener($intern_65, onBodyDone, false);
->>>>>>> Resolved merge, added frontend functionality to display (simple) data on the page
-=======
-      if (!__gwt_stylesLoaded[$intern_59]) {
-        var l = $doc.createElement($intern_60);
-        __gwt_stylesLoaded[$intern_59] = l;
-        l.setAttribute($intern_61, $intern_62);
-        l.setAttribute($intern_63, base + $intern_59);
-        $doc.getElementsByTagName($intern_64)[0].appendChild(l);
-      }
-      maybeStartModule();
-      if ($doc.removeEventListener) {
-        $doc.removeEventListener($intern_65, onBodyDone, false);
->>>>>>> Re-imported all the files we managed to rid ourselves of on gwt
       }
       if (onBodyDoneTimerId) {
         clearInterval(onBodyDoneTimerId);
@@ -361,15 +297,7 @@ function reeffront(){
   }
 
   if ($doc.addEventListener) {
-<<<<<<< HEAD
-<<<<<<< HEAD
-    $doc.addEventListener($intern_66, function(){
-=======
     $doc.addEventListener($intern_65, function(){
->>>>>>> Resolved merge, added frontend functionality to display (simple) data on the page
-=======
-    $doc.addEventListener($intern_65, function(){
->>>>>>> Re-imported all the files we managed to rid ourselves of on gwt
       maybeInjectFrame();
       onBodyDone();
     }
@@ -384,15 +312,7 @@ function reeffront(){
   , 50);
   $stats && $stats({moduleName:$intern_1, sessionId:$sessionId, subSystem:$intern_2, evtGroup:$intern_3, millis:(new Date).getTime(), type:$intern_9});
   $stats && $stats({moduleName:$intern_1, sessionId:$sessionId, subSystem:$intern_2, evtGroup:$intern_49, millis:(new Date).getTime(), type:$intern_4});
-<<<<<<< HEAD
-<<<<<<< HEAD
-  $doc.write($intern_67);
-=======
   $doc.write($intern_66);
->>>>>>> Resolved merge, added frontend functionality to display (simple) data on the page
-=======
-  $doc.write($intern_66);
->>>>>>> Re-imported all the files we managed to rid ourselves of on gwt
 }
 
 reeffront();
